@@ -1,0 +1,21 @@
+output_dat.txt
+output_osc.txt
+Ful_log = false
+Rank = 104
+t = 0
+delt_t = 0,1
+t_establish = 1500
+t_min = 0
+tInterval = 10
+t_max = 40000
+t_fin = 40000
+System parameters
+0,95
+1,003
+1,003
+0,99
+0,03
+0,02
+0,97
+Free
+Size = 30x30
