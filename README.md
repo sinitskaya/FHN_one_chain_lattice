@@ -1,0 +1,1 @@
+# FHN_one_chain_lattice
